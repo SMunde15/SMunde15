@@ -46,7 +46,7 @@
 <div style="height: 40px;"></div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smunde15&show_icons=true&locale=en&theme=radical&layout=compact" alt="smunde15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smunde15&layout=compact&theme=radical" alt="smunde15" />
 </p>
 <div style="height: 20px;"></div>
 
