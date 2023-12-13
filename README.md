@@ -46,12 +46,12 @@
 <div style="height: 40px;"></div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smunde15&show_icons=true&locale=en&layout=compact&theme=radical" alt="smunde15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smunde15&show_icons=true&locale=en&theme=radical&layout=compact" alt="smunde15" />
 </p>
 <div style="height: 20px;"></div>
 
 <p align = "center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SMunde15&theme=radical&date_format=M%20j%5B%2C%20Y%5D&sideNums=1FEB9C" alt="GitHub Streak" /></a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smunde15&theme=radical" alt="smunde15" />
 </p>
 
 <div style="height: 20px;"></div>
