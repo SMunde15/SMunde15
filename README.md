@@ -14,7 +14,7 @@
 
 <p>- 🔭 I’m currently working on 'crm-tkt-tool' <a href="https://github.com/nexpictora-pvt-ltd">NexPictora</a></p>
 
-<p>- 📄 If you want to know me better, then <a href="[https://drive.google.com/drive/folders/1zcfuKcmyEyLfKA9bothWoz_x8pn6at2y?usp=sharing](https://drive.google.com/file/d/1bu1p3Gsjf3jWq3coXYLvar7dOlTKywBr/view?usp=sharing)">Click me..!</a></p>
+<p>- 📄 If you want to know me better, then <a href="https://drive.google.com/file/d/1bu1p3Gsjf3jWq3coXYLvar7dOlTKywBr/view?usp=sharing">Click me..!</a></p>
 
 <p>- 👨‍💻 All of my projects are available at <a href="https://github.com/SMunde15">SMunde15</a></p>
 
